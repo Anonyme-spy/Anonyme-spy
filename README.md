@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/1FA.gif" width="150"/>
+  <img src="https://iili.io/Jvlet1V.gif" width="150"/>
   <div id="badges">
   <a href="fb.com/anonymespy">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.tiktok.com/@anonymespy1?_t=8lTT1fjYpCD&_r=1">
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white
-    " alt="Youtube Badge"/>
+    " alt="Tiktok"/>
   </a>
   <a href="discord.com/users/886534508411777054">
     <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/>
