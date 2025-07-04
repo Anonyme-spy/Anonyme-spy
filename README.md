@@ -24,7 +24,7 @@
 
 ### :skull: About Me :
 
-I am a Junior dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Madagascar :madagascar:.
+Just a Junior dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Madagascar :madagascar:.
 
 - :open_book: Former computer science student and now software engineering student im his way to be a fullstacks.
 - :scroll: A game addict and love reading Manga.
