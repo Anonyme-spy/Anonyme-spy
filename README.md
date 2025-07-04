@@ -26,7 +26,7 @@
 
 Just a Junior dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Madagascar :madagascar:.
 
-- :open_book: Former computer science student and now software engineering student im his way to be a fullstacks.
+- :open_book: Former computer science student and now software engineering student in his way to became a fullstacks.
 - :scroll: A game addict and love reading Manga.
 - :video_game: In my free time? I don't have a free time.
 - To contact me just type anonymespy on discord or: [![Static Badge](https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)
