@@ -13,7 +13,7 @@
 <h1>
   Hi guys,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  my view look sad
+  I'm chillig
 </h1>
 </div>
 <div align="center">
@@ -24,11 +24,11 @@
 
 ### :skull: About Me :
 
-I am a Apprentice developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Madagascar :madagascar:.
+I am a Junior dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Madagascar :madagascar:.
 
-- :open_book: I am a computer science student and contributing to mostly frontend and some backend for building web applications.
-- :scroll: A game addict and love reading Manga
-- :video_game: In my free time? I don't think i need to say more
+- :open_book: Former computer science student and now software engineering student im his way to be a fullstacks.
+- :scroll: A game addict and love reading Manga.
+- :video_game: In my free time? I don't have a free time.
 - To contact me just type anonymespy on discord or: [![Static Badge](https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)
   ](fb.com/anonymespy)
 
