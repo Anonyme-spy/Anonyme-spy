@@ -36,7 +36,7 @@ I am a Apprentice developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,mysql,react,c,cs,cpp,dotnet,java,mysql,git,js,jetbrains,ts,nodejs&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,mysql,react,c,cs,cpp,dotnet,java,mysql,git,idea,ts,js,nodejs,yarn,tailwind&perline=10)](https://skillicons.dev)
 
 ---
 
